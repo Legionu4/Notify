@@ -52,7 +52,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationLoader.cs" />
     <Compile Include="MyFirstWindowsService.cs">
       <SubType>Component</SubType>
     </Compile>

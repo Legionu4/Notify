@@ -14,3 +14,11 @@ D:\Робота\2016\10-2016\notify\MyFirstWindowsService\MyFirstWindowsService\
 D:\Робота\2016\10-2016\notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojResolveAssemblyReference.cache
 D:\Робота\2016\10-2016\notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
 D:\Робота\2016\10-2016\notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.Cache
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojResolveAssemblyReference.cache
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+D:\ARM\git\Notify\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.Cache

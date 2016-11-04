@@ -10,7 +10,7 @@ namespace MyFirstWindowsService
     public partial class MyFirstWindowsService : ServiceBase
     {
         private EventLog eventLog1 = new EventLog();
-        private readonly string _path = @"D:\Робота\2016\10-2016\notify\CustomWindow\bin\Debug\CustomWindow.exe";
+        private readonly string _path = @"D:\ARM\git\Notify\CustomWindow\bin\Debug\CustomWindow.exe";
         private string args = "";
 
         public MyFirstWindowsService()
